@@ -1,0 +1,39 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color:bisque;
+    color: rgb(80, 80, 80);
+    border: 2px solid red;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(201, 128, 12)
+}
+
+h2 {
+    font-size: 32px;
+    color: rgb(12, 201, 122)
+}
+
+ul.inline-ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
